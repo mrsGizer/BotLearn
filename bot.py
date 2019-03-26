@@ -47,7 +47,7 @@ def planet_user(bot, update, user_data):
         update.message.reply_text(text_user_planet)
 
 
-def (bot, update, user_data):
+def talk_to_me(bot, update, user_data):
     user_text = update.message.text
     print(user_text)
     update.message.reply_text(user_text)
