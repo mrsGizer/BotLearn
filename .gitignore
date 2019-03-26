@@ -1,5 +1,4 @@
 env
 *.log
 settings.py
-images
-
+__pychace__
