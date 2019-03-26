@@ -1,4 +1,5 @@
 env
 *.log
 settings.py
-__pychace__
+__pycache__
+
